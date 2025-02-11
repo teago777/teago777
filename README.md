@@ -38,3 +38,6 @@
 </a>
 </div>
 
+**Contagem de visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{teago777}/count.svg)
